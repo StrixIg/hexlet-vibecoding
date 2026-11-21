@@ -1,1 +1,2 @@
-# hexlet-vibecoding
+# hexУчусь вайбкодингу, тут будут мои
+экспериментыlet-vibecoding
